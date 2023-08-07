@@ -1,0 +1,148 @@
+@font-face {
+    font-family: Gilroy1;
+    src: url(fonts/Gilroy-ExtraBold.otf);
+}
+
+@font-face {
+    font-family: Gilroy2;
+    src: url(fonts/Gilroy-Light.otf);
+}
+
+.container-fluid {
+    align-items: end !important;
+    margin-top: 30px;
+}
+
+.mynav {
+    width: 100%;
+    height: 100px;
+    background-color: white !important;
+    ;
+}
+
+.main-menu {
+    margin-left: 400px;
+}
+
+.navbar img {
+    width: 140px;
+    height: 40px;
+    top: 85px;
+    left: 80px;
+    margin-left: 100px;
+
+}
+
+.nav-link {
+    margin-left: 50px;
+}
+
+/* .theme-menu {
+    display: flex;
+    justify-content: end;
+} */
+
+
+.theme-menu>li {
+    font-family: Gilroy2;
+    font-size: 17px;
+    font-weight: 800;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    /* margin-left: 20px; */
+    align-items: end;
+}
+
+.btn-help {
+    position: absolute;
+    margin-left: 500px;
+    width: 140px;
+    height: 40px;
+    font-family: 'Gilroy2';
+    border-radius: 8px;
+    color: white;
+    background-color: #75BF7A;
+    font-size: 15px;
+}
+
+@media only screen and (max-width:360px) {
+    .navbar img {
+        width: 100px;
+        height: 30px;
+        top: 35px;
+        left: 40px;
+        margin-left: 20px;
+    
+    }
+}
+
+/* secondsection */
+
+.second-section {
+    width: 100%;
+    height: 4200px;
+    background-color: #F9F9F9;
+}
+
+.first-section img {
+    width: 500px;
+    margin-left: 50px;
+    display: flex;
+    padding-top: 20px;
+}
+
+.secondsection img {
+    display: flex;
+    margin-left: 620px;
+    margin-top: -500px;
+    width: 553px;
+    height: 500px;
+}
+
+.bold {
+    padding: 180px;
+    margin-left: -200px;
+}
+
+.text {
+    margin-top: -175px;
+    margin-left: -20px;
+}
+
+.download img {
+    width: 200px;
+    height: 66.77316284179688px;
+    top: 744px;
+    left: 80px;
+    border-radius: 5px;
+    display: flex;
+    display: inline-flex;
+    margin-top: 50px;
+}
+
+@media only screen and (max-width:360px) {
+
+    .bold img {
+        width: 290px;
+        height: 80px;
+    }
+    .text img {
+        width: 290px;
+        height: 80px;
+    }
+    .download img {
+        width: 140px;
+        height: 49px;
+        margin-left: 17px;
+        margin-top: 5px;
+        display: inline;
+    }
+    .secondsection img {
+        display: flex;
+        /* margin-left: 320px;
+        margin-top: -500px; */
+        width: 200px;
+        height: 250px;
+    }
+ }
