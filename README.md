@@ -1,2 +1,2 @@
 # figma1
-https://shimmering-custard-b5072e.netlify.app/
+https://64d65379c55b4578a1289210--mellow-dragon-083502.netlify.app/
