@@ -1,2 +1,2 @@
 # figma1
-https://64d65379c55b4578a1289210--mellow-dragon-083502.netlify.app/
+https://ubiquitous-kashata-c66018.netlify.app/
